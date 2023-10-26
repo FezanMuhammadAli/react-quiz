@@ -1,5 +1,10 @@
+import DateCounter from "./DateCounter";
 function App() {
-  return <div>I'm Fezan</div>;
+  return (
+    <div>
+      <DateCounter />
+    </div>
+  );
 }
 
 export default App;
