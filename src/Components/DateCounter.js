@@ -1,3 +1,6 @@
+// this is a practice to convert the useState into useReducer you may neglect it.
+
+
 import { useReducer } from "react";
 
 const initialState = { count: 0, step: 1 };
